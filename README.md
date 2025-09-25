@@ -12,7 +12,7 @@ KubeGenie is an AI-powered assistant for Kubernetes operations, designed to help
 	•	Validated Demand: Inspired by projects like K8sGPT (4,000+ GitHub stars) and market trends in AI-powered DevOps.
 	•	Enterprise-Ready & Unique: Java/Spring-powered with easy integration in corporate stacks—unlike most Go/Python-based tools.
 	•	Quantifiable Business Impact: Proven to reduce incident resolution time, save engineering hours, and optimize cloud costs.
- Project Structure
+Project Structure
     kube-genie/
   ├── src/                   # Spring Boot backend (Java)
   ├── web-ui/                # (Optional) React web frontend

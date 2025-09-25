@@ -1,0 +1,16 @@
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/model/PodInfo.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/config/OpenAIConfig.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/service/AIServiceTest.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/payload/QueryRequest.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/model/EventInfo.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/KubeGenieApplication.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/model/DeploymentInfo.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/service/AIService.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/model/ResourceUsage.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/controller/KubeController.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/model/ClusterState.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/model/NodeInfo.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/controller/KubeControllerTest.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/config/KubernetesClientConfig.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/service/KubernetesService.java
+/Users/sohamsupekar/Desktop/KubeGenie/KubeGenie/src/main/java/com/kubegenie/payload/QueryResponse.java
